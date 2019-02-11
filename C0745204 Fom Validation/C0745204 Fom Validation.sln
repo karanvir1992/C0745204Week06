@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B7819537-D38A-455C-A948-CD28BD142D4B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B38C97C6-12A1-4138-8C3F-FEB841B6452F}"
 	ProjectSection(SolutionItems) = preProject
 		HTMLPage1.html = HTMLPage1.html
 	EndProjectSection
@@ -13,6 +13,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8E3D7B4D-260A-4FAC-B0B8-AF9AA3997CBA}
+		SolutionGuid = {D6E07FD3-06BB-4A6E-9840-75027026FDD6}
 	EndGlobalSection
 EndGlobal
